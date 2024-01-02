@@ -1,9 +1,7 @@
 {
-  "editor.wordWrap":"on",
+  "editor.wordWrap": "on",
   "editor.formatOnSave": true,
-  "editor.formatOnPaste":true,
+  "editor.formatOnPaste": true,
   "editor.minimap.enabled": false,
-  "files.autoSave": "afterDelay",
-
-  "prettier.enable": true,
+  "files.autoSave": "afterDelay"
 }
